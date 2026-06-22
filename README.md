@@ -1,4 +1,4 @@
-# Weather-Cute
+# Cute weather web animation 
 
 ## Description
 
