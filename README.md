@@ -4,6 +4,8 @@
 
 Weather-Cute is a simple beginner-level project built using HTML and JavaScript. It displays different weather conditions using emojis instead of complex animations. The project focuses on basic interactivity and DOM manipulation.
 
+I build it to run on docker for my course, however it can be used without docker container by simply clicking the html page to open in chrome.
+
 ---
 
 ## Features
